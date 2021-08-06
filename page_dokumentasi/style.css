@@ -1,0 +1,18 @@
+section {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+section .header {
+  margin-top: 50px;
+}
+
+.card-big-desk {
+  height: 400px;
+  vertical-align: middle;
+}
+
+.card-big-desk h3,
+p {
+  vertical-align: middle;
+}

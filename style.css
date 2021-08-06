@@ -1,0 +1,29 @@
+.jumbotron {
+  margin-bottom: 6rem;
+}
+
+section {
+  margin-bottom: 80px;
+}
+
+.galeri img {
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.quote {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.btn-more {
+  background-color: #fd9c0c;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.btn-more h5 {
+  color: white;
+}
