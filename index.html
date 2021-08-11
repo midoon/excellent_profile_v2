@@ -311,8 +311,15 @@
                     //reset form
                     form.reset();
                     console.log('Success!', response)
+
+                    //menghilangkan setelah sekian detik
+                    setTimeout(function () {
+                        myAlert.classList.toggle("d-none");
+                    }, 10000);
                 })
                 .catch(error => console.error('Error!', error.message))
+
+
         })
     </script>
 
